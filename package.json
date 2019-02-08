@@ -1,0 +1,24 @@
+{
+  "name": "setfunction-synthesis",
+  "version": "0.0.1",
+  "author": "Niels Bunkenburg <stu114713@informatik.uni-kiel.de>",
+  "synopsis": "Prototype implementation of synthesizing set functions",
+  "category": [ "Logic", "Programming" ],
+  "license": "BSD-3-Clause",
+  "licenseFile": "LICENSE",
+  "dependencies": {
+    "abstract-curry": ">= 2.0.0",
+    "currypath": ">= 0.0.1",
+    "finite-map": ">= 0.0.1",
+    "flatcurry": ">= 2.0.0",
+    "flatcurry-annotated": ">= 2.0.0",
+    "searchtree": ">= 1.0.0"
+  },
+    "compilerCompatibility": {
+        "pakcs": ">= 2.0.0"
+    },
+  "executable": {
+    "name": "synsetfun",
+    "main": "Main"
+  }
+}

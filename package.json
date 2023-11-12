@@ -22,7 +22,7 @@
     "main": "Main"
   },
   "source": {
-     "git": "https://git.ps.informatik.uni-kiel.de/curry-packages/setfunction-synthesis.git",
+     "git": "https://github.com/curry-packages/setfunction-synthesis.git",
      "tag": "$version"
   }
 }
